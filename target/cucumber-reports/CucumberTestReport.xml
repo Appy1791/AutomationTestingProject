@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="21.879">
+    <testcase classname="Feature to test login functionality" name="Validate login to school of rock page is succssful" time="21.621">
+        <system-out><![CDATA[Given User is on login page.................................................passed
+When User enter valid "onvue@testing.com" and "abc".........................passed
+And User click on login button..............................................passed
+Then User should be navigate to video window................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
